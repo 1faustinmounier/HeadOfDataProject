@@ -1,7 +1,7 @@
 # HeadOfDataProject
 
 
- Group members : 
+ **Group members :** 
  - Vladimir Bucaille 
  - Maxime Solère  
  - Faustin Mounier  
